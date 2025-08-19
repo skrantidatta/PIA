@@ -3,7 +3,7 @@
 
 Soumyya Kanti Datta, Tanvi Ranga, Chengzhe Sun, Siwei Lyu
 
-Accepted by APAI ICCVW
+Accepted by APAI ICCV 2025
 
 
 ## Abstract
