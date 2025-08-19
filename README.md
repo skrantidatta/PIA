@@ -2,6 +2,7 @@
 # PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis
 
 Soumyya Kanti Datta, Tanvi Ranga, Chengzhe Sun, Siwei Lyu
+
 Accepted by APAI ICCVW
 
 
