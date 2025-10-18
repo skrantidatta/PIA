@@ -13,7 +13,33 @@ These advanced techniques generate nearly perfect individual frames yet inadvert
 
 <img src='./Images/MainPipeline.jpg' width=900>
 
+# Prerequisites
+- `Python 3.10` 
+- Install necessary packages using `pip install -r requirements.txt`.
+- Model weights can be found under ./checkpoints folder
+- The input video should have the face of **only 1 subject** in the entire video.
+- The input video should have **1 face per frame**.
 
 # Inference: 
+The input_video should be in mp4 format :
+```
+python main.py --video {input_video_path} --outdir {output_path}
+```
+# Citation
+```
+@misc{datta2025piadeepfakedetectionusing,
+      title={PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis}, 
+      author={Soumyya Kanti Datta and Tanvi Ranga and Chengzhe Sun and Siwei Lyu},
+      year={2025},
+      eprint={2510.14241},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.14241}, 
+}
 
-Code will be available soon.
+```
+# Acknowledgements
+This work is supported by the Center
+for Identification Technology Research (CITeR) and the National Science Foundation under Grant No. 1822190
+
+
