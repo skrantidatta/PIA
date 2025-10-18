@@ -14,7 +14,7 @@ These advanced techniques generate nearly perfect individual frames yet inadvert
 <img src='./Images/MainPipeline.jpg' width=900>
 
 # Prerequisites
-- `Python 3.10` 
+- `Python 3.12` 
 - Install necessary packages using `pip install -r requirements.txt`.
 - Model weights can be found under ./checkpoints folder
 - The input video should have the face of **only 1 subject** in the entire video.
