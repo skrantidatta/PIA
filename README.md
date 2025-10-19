@@ -16,7 +16,7 @@ These advanced techniques generate nearly perfect individual frames yet inadvert
 # Prerequisites
 - `Python 3.12` 
 - Install necessary packages using `pip install -r requirements.txt`.
-- Install apt-get update -y && apt-get install -y espeak-ng
+- apt-get update -y && apt-get install -y espeak-ng
 - Model weights can be found under ./checkpoints folder
 - The input video should have the face of **only 1 subject** in the entire video.
 - The input video should have **1 face per frame**.
