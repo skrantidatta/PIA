@@ -202,7 +202,8 @@ def process_single_video(
     # align_model, metadata = whisperx.load_align_model(model_name="facebook/wav2vec2-xlsr-53-espeak-cv-ft", language_code=language, device=device)
     try:
         align_model, metadata = whisperx.load_align_model(
-        model_name="facebook/wav2vec2-large-xlsr-53-espeak-cv-ft",
+        # model_name="facebook/wav2vec2-large-xlsr-53-espeak-cv-ft",
+        model_name="ntsema/wav2vec2-xlsr-53-espeak-cv-ft-xas2-ntsema-colab",
         language_code="en",
         device=device
         )
